@@ -1,0 +1,7 @@
+/Users/alinebuchino/Documents/Projetos/planner/backend/src/main/java/com/trips/planner/PlannerApplication.java
+/Users/alinebuchino/Documents/Projetos/planner/backend/src/main/java/com/trips/planner/participant/ParticipantService.java
+/Users/alinebuchino/Documents/Projetos/planner/backend/src/main/java/com/trips/planner/trip/TripController.java
+/Users/alinebuchino/Documents/Projetos/planner/backend/src/main/java/com/trips/planner/trip/TripCreateResponse.java
+/Users/alinebuchino/Documents/Projetos/planner/backend/src/main/java/com/trips/planner/trip/TripRepository.java
+/Users/alinebuchino/Documents/Projetos/planner/backend/src/main/java/com/trips/planner/trip/TripRequestPayload.java
+/Users/alinebuchino/Documents/Projetos/planner/backend/src/main/java/com/trips/planner/trip/TripVO.java
